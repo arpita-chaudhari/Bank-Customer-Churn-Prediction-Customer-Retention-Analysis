@@ -59,5 +59,6 @@ Bank-Customer-Churn-ML/
 │   └── Churn_Modelling.csv
 │
 ├── Bank_Customer_Churn_Prediction.ipynb
-├── README.
+├── Images.
+
 ```
